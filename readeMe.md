@@ -10,3 +10,4 @@ Git追踪文件的改变
 
 Git创建一个分支很快
 
+Git合并分支不采用Fast forward模式
